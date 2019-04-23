@@ -4,11 +4,14 @@ Updating skillset
 
 This follows your standard "Hello World" tutorial.
 
-I have decent PHP knowledge
-Worked and built templates for:
+I have decent PHP knowledge. I have worked and built templates and full websites using:
+
 WordPress
+
 Joomla
+
 Kentico
+
 Bespoke CMS's
 
 I've nearly 20 years experience developing and working with CMS systems from my first job.  Writing table-less HTML, in a text editor, from day 1.
